@@ -4682,7 +4682,7 @@ hr.pattern.pattern-2:after, .divider.pattern.pattern-2:after {
 	}
 
 	.sort-source-wrapper {
-		background: #171717;
+		background: #231f20;
 		clear: both;
 		margin-top: -35px;
 	}
@@ -6071,12 +6071,12 @@ section.timeline .timeline-title {
 section.timeline .timeline-title h4 {
 	padding: 0;
 	margin: 0;
-	color: #171717;
+	color: #231f20;
 	font-size: 1.4em;
 }
 
 section.timeline .timeline-title a {
-	color: #171717;
+	color: #231f20;
 }
 
 section.timeline .timeline-title .timeline-title-tags {
@@ -6646,7 +6646,7 @@ section.timeline .timeline-box .owl-carousel {
 }
 
 .social-icons li:hover a {
-	background: #171717;
+	background: #231f20;
 	color: #FFF !important;
 }
 

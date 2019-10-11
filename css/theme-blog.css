@@ -136,7 +136,7 @@ article.post-large h2 {
 }
 
 article.post-large .post-image, article.post-large .post-date {
-	margin-left: -60px;
+	margin-left: 0;
 }
 
 article.post-large .post-image {

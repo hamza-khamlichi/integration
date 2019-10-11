@@ -1,5 +1,5 @@
 a {
-	color: #000;
+	color: #231f20;
 }
 
 a:hover {
@@ -18,7 +18,7 @@ html .heading-primary,
 html .lnk-primary,
 html .text-color-primary,
 html .text-primary {
-	color: #000 !important;
+	color: #231f20 !important;
 }
 
 html .heading.heading-primary h1,
@@ -27,7 +27,7 @@ html .heading.heading-primary h3,
 html .heading.heading-primary h4,
 html .heading.heading-primary h5,
 html .heading.heading-primary h6 {
-	border-color: #000;
+	border-color: #231f20;
 }
 
 html .heading-secondary,
@@ -406,15 +406,15 @@ html .badge-light {
 }
 
 html .btn-primary {
-	background-color: #000;
-	border-color: #000 #000 #006699;
+	background-color: #231f20;
+	border-color: #231f20 #231f20 #006699;
 	color: #ffffff;
 }
 
 html .btn-primary:hover,
 html .btn-primary.hover {
 	background-color: #00a1f2;
-	border-color: #00aaff #00aaff #000;
+	border-color: #00aaff #00aaff #231f20;
 	color: #ffffff;
 }
 
@@ -426,8 +426,8 @@ html .btn-primary.focus {
 
 html .btn-primary.disabled,
 html .btn-primary:disabled {
-	background-color: #000;
-	border-color: #000 #000 #006699;
+	background-color: #231f20;
+	border-color: #231f20 #231f20 #006699;
 }
 
 html .btn-primary:active,
@@ -449,7 +449,7 @@ html .btn-primary-scale-2 {
 html .btn-primary-scale-2:hover,
 html .btn-primary-scale-2.hover {
 	background-color: #007fbf;
-	border-color: #000 #000 #006699;
+	border-color: #231f20 #231f20 #006699;
 	color: #ffffff;
 }
 

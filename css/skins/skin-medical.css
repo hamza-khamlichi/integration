@@ -285,7 +285,7 @@ html .nav-pills-quaternary a:focus {
 }
 
 html .nav-pills-quaternary a:active {
-	color: #171717;
+	color: #231f20;
 }
 
 html .nav-pills-quaternary .nav-link.active,
@@ -1292,7 +1292,7 @@ html section.section-tertiary-scale-2 .sort-source.sort-source-style-2 > li.acti
 
 html section.section-quaternary {
 	background-color: #242424 !important;
-	border-color: #171717 !important;
+	border-color: #231f20 !important;
 }
 
 html section.section-quaternary h1,
@@ -3730,7 +3730,7 @@ html #header .header-top.header-top-tertiary .dropdown-menu a:focus {
 
 html #header .header-top.header-top-quaternary {
 	background: #242424;
-	border-top-color: #171717;
+	border-top-color: #231f20;
 }
 
 html #header .header-top.header-top-quaternary .header-nav-top ul > li.open > a {
@@ -5142,8 +5142,8 @@ html #footer.color-quaternary .footer-ribbon:before {
 }
 
 html #footer.color-quaternary .footer-copyright {
-	background: #171717;
-	border-top-color: #171717;
+	background: #231f20;
+	border-top-color: #231f20;
 }
 
 html #footer.color-dark {

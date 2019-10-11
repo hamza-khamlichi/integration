@@ -277,11 +277,11 @@ html .nav-pills-quaternary a {
 }
 
 html .nav-pills-quaternary a:hover {
-	color: #171717;
+	color: #231f20;
 }
 
 html .nav-pills-quaternary a:focus {
-	color: #171717;
+	color: #231f20;
 }
 
 html .nav-pills-quaternary a:active {
@@ -3429,11 +3429,11 @@ html[dir="rtl"] #header .tip-light:before {
 
 	html #header .header-nav-main nav > ul > li.dropdown-full-color.dropdown-quaternary .dropdown-menu li a {
 		color: #ffffff;
-		border-bottom-color: #171717;
+		border-bottom-color: #231f20;
 	}
 
 	html #header .header-nav-main nav > ul > li.dropdown-full-color.dropdown-quaternary .dropdown-menu li:hover > a {
-		background: #171717;
+		background: #231f20;
 	}
 
 	html #header .header-nav-main nav > ul > li.dropdown-full-color.dropdown-quaternary .dropdown-menu li.dropdown-submenu > a:after {
@@ -3734,19 +3734,19 @@ html #header .header-top.header-top-quaternary {
 }
 
 html #header .header-top.header-top-quaternary .header-nav-top ul > li.open > a {
-	background: #171717;
+	background: #231f20;
 }
 
 html #header .header-top.header-top-quaternary .header-nav-top ul > li > a:hover,
 html #header .header-top.header-top-quaternary .header-nav-top ul > li.open > a:hover,
 html #header .header-top.header-top-quaternary .header-nav-top ul > li > a:focus,
 html #header .header-top.header-top-quaternary .header-nav-top ul > li.open > a:focus {
-	background: #171717;
+	background: #231f20;
 }
 
 html #header .header-top.header-top-quaternary .dropdown-menu {
-	background: #171717;
-	border-color: #171717;
+	background: #231f20;
+	border-color: #231f20;
 }
 
 html #header .header-top.header-top-quaternary .dropdown-menu a:hover,
@@ -3917,11 +3917,11 @@ html .testimonial-tertiary .testimonial-arrow-down {
 }
 
 html .testimonial-quaternary blockquote {
-	background: #171717;
+	background: #231f20;
 }
 
 html .testimonial-quaternary .testimonial-arrow-down {
-	border-top-color: #171717;
+	border-top-color: #231f20;
 }
 
 html .testimonial-dark blockquote {

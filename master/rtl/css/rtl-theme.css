@@ -1828,7 +1828,7 @@ html.ie #header .header-column .header-extra-info .feature-box .feature-box-info
 
 /* Page Header */
 .page-header {
-	background-color: #171717;
+	background-color: #231f20;
 	border-bottom: 5px solid #CCC;
 	border-top: 5px solid #384045;
 	margin: 0 0 35px 0;
@@ -2365,7 +2365,7 @@ aside ul.nav-list > li > a {
 
 /* Home Slider - Revolution Slider */
 .slider-container {
-	background: #171717;
+	background: #231f20;
 	height: 500px;
 	overflow: hidden;
 	width: 100%;
@@ -2641,7 +2641,7 @@ section.section-custom-map-2 section.section {
 
 /* Home Intro */
 .home-intro {
-	background-color: #171717;
+	background-color: #231f20;
 	margin-bottom: 60px;
 	overflow: hidden;
 	padding: 2.2rem 0;

@@ -678,7 +678,7 @@ html .btn-quaternary-scale-2:disabled {
 html .btn-quaternary-scale-2:active,
 html .btn-quaternary-scale-2.active,
 .show > html .btn-quaternary-scale-2.dropdown-toggle {
-	background-color: #171717 !important;
+	background-color: #231f20 !important;
 	background-image: none !important;
 	border-color: #111111 #111111 #000000 !important;
 	-webkit-box-shadow: 0 0 0 0.2rem rgba(43, 43, 43, 0.5) !important;

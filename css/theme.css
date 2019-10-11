@@ -1996,7 +1996,7 @@ html.ie #header .header-column .header-extra-info .feature-box .feature-box-info
 
 /* Page Header */
 .page-header {
-	background-color: #171717;
+	background-color: #231f20;
 	border-bottom: 5px solid #CCC;
 	border-top: 5px solid #384045;
 	margin: 0 0 35px 0;
@@ -2542,7 +2542,7 @@ aside ul.nav-list > li > a {
 
 /* Home Slider - Revolution Slider */
 .slider-container {
-	background: #171717;
+	background: #231f20;
 	height: 500px;
 	overflow: hidden;
 	width: 100%;
@@ -2819,7 +2819,7 @@ section.section-custom-map-2 section.section {
 
 /* Home Intro */
 .home-intro {
-	background-color: #171717;
+	background-color: #231f20;
 	margin-bottom: 60px;
 	overflow: hidden;
 	padding: 35.2px 0;
@@ -3644,8 +3644,8 @@ html.dark .text-muted {
 
 /* #Footer */
 #footer {
-	background: #0e0e0e;
-	border-top: 4px solid #0e0e0e;
+	background: #231f20;
+	border-top: 4px solid #000;
 	font-size: 0.9em;
 	margin-top: 50px;
 	padding: 70px 0 0;
@@ -5052,4 +5052,12 @@ html.boxed .main {
 	justify-content: center;
 	flex-direction: column;
 
+}
+.rev_slider a{
+	color: #fff;
+}
+.sp-link{
+	float: left !important;
+	clear: both;
+	margin-top: 30px !important
 }
